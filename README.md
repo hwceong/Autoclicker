@@ -1,3 +1,9 @@
-clicker2.py supports both windows and linux. Before you use open up terminal and type "pip install pynput".
+Usage:
+I recommend doing the following command in a virtualenv of python 3.6
+pip install -r requirement.txt
 
-clicker.py is just a proof of concept and I suggest you should use it.
+TODO:
+usable UI that features:
+- remappable keys for toggling auto clicking
+- option to make auto clicking activate on toggle or key hold
+- user able to enter desired rate of click

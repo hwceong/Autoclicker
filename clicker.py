@@ -42,7 +42,7 @@ if __name__ == '__main__':
     mouse_thread = Mouse(0.1)
     mouse_thread.start()
 
-    print("Press \",\" to toggle auto clicking. Press ESC to close to program.")
+    print("Press \",\" to toggle left auto clicking or press \".\" to toggle right auto clicking. Press ESC to close to program.")
 
     with keyboard.Listener(on_press=on_press) as listener: # NOTE: from pynput module, it the keyboard.Listener listens from keyboard input
         listener.join()
