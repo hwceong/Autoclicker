@@ -1,5 +1,5 @@
 import tkinter as tk
-from commons import clicker
+from autoclicker.commons import clicker
 
 
 class MainApplication(tk.Frame):

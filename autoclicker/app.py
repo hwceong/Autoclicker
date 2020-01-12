@@ -1,4 +1,4 @@
-from commons import ui
+from autoclicker.commons import ui
 
 def run():
     root = ui.tk.Tk()
