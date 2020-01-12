@@ -6,6 +6,6 @@ This will solve all your problems :D
 
 I recommend doing the following command in a python 3.6 virtualenv
 
-1. *pip install -r requirement.txt*
+1. *pip install .*
 2. *python -m autoclicker*
 
